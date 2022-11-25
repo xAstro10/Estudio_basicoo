@@ -1,0 +1,56 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (SpriteHero.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  MyForm.cpp
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Persona.h(23,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Persona.h(23,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Bullet.h(25,48): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Bullet.h(25,33): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Bullet.h(47,47): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Bullet.h(47,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Bullet.h(50,29): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Bullet.h(52,30): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Calaveras.h(29,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Calaveras.h(29,41): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Calaveras.h(59,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Calaveras.h(59,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(46,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(50,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(57,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(61,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(68,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(78,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(80,22): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(93,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(100,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\MyForm.h(26,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\MyForm.h(112,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\MyForm.h(112,59): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\MyForm.h(116,21): warning C4018: '<': no coinciden signed/unsigned
+  MyForm1.cpp
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Persona.h(23,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Persona.h(23,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Bullet.h(25,48): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Bullet.h(25,33): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Bullet.h(47,47): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Bullet.h(47,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Bullet.h(50,29): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Bullet.h(52,30): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Calaveras.h(29,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Calaveras.h(29,41): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Calaveras.h(59,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Calaveras.h(59,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(46,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(50,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(57,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(61,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(68,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(78,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(80,22): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(93,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Controller.h(100,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\MyForm.h(26,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\MyForm.h(112,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\MyForm.h(112,59): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\MyForm.h(116,21): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  SpriteHero.vcxproj -> D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\Debug\TF.exe

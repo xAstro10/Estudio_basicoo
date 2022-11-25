@@ -1,0 +1,14 @@
+D:\UPC\UPC\Ciclo2\Algoritmo\sem13\SpriteHero\SpriteHero\Debug\SpriteHero.vcxproj.AssemblyReference.cache
+D:\UPC\UPC\Ciclo2\Algoritmo\sem13\SpriteHero\SpriteHero\Debug\SpriteHero.vcxproj.SuggestedBindingRedirects.cache
+D:\UPC\UPC\Ciclo2\Algoritmo\sem13\SpriteHero\SpriteHero\Debug\SpriteHero.frmMain.resources
+D:\UPC\UPC\Ciclo2\Algoritmo\sem13\SpriteHero\SpriteHero\Debug\SpriteHero.vcxproj.GenerateResource.cache
+D:\UPC\UPC\Ciclo2\Algoritmo\sem14\TF\SpriteHero\Debug\SpriteHero.vcxproj.AssemblyReference.cache
+D:\UPC\UPC\Ciclo2\Algoritmo\sem14\TF\SpriteHero\Debug\SpriteHero.vcxproj.SuggestedBindingRedirects.cache
+D:\UPC\UPC\Ciclo2\Algoritmo\sem14\TF\SpriteHero\Debug\SpriteHero.vcxproj.GenerateResource.cache
+D:\UPC\UPC\Ciclo2\Algoritmo\sem14\TF\SpriteHero\Debug\SpriteHero.MyForm.resources
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Debug\SpriteHero.vcxproj.AssemblyReference.cache
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Debug\SpriteHero.vcxproj.SuggestedBindingRedirects.cache
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Debug\SpriteHero.MyForm.resources
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Debug\SpriteHero.MyForm1.resources
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Debug\SpriteHero.MyForm2.resources
+D:\UPC\UPC\Ciclo2\Algoritmo\TF-U202210355_Jose Sebastian Alvildo Perez\TF\SpriteHero\Debug\SpriteHero.vcxproj.GenerateResource.cache
