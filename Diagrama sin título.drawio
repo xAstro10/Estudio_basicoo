@@ -1,9 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T16:19:36.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.5" etag="SztL_XFQx6QIJsOtys57" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T16:32:25.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="vOO_2h_0g7SVIy8sVXHW" version="21.7.5" type="github">
   <diagram name="Página-1" id="xSnN-hRpPBBOikgkh6o2">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g8eQ6b_c9qaqCsPONpgr-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;cliente&lt;/font&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="60" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g8eQ6b_c9qaqCsPONpgr-2" value="ID, nombre, dirección, número de teléfono, dirección de correo electrónico." style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g8eQ6b_c9qaqCsPONpgr-1">
+          <mxGeometry y="30" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g8eQ6b_c9qaqCsPONpgr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g8eQ6b_c9qaqCsPONpgr-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8eQ6b_c9qaqCsPONpgr-5" value="obtenerInformación(), actualizarInformación(), realizarCompra()." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8eQ6b_c9qaqCsPONpgr-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;AsesorComercial&lt;/font&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="60" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="g8eQ6b_c9qaqCsPONpgr-7" value="ID, nombre, lista de clientes asignados, meta mensual, calendario de visitas, lista de oportunidades de negocio." style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g8eQ6b_c9qaqCsPONpgr-6">
+          <mxGeometry y="30" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g8eQ6b_c9qaqCsPONpgr-8" value="programarVisitaTécnica(), realizarSeguimientoCliente(), detectarOportunidadNegocio(), registrarContacto()." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g8eQ6b_c9qaqCsPONpgr-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Producto&lt;/font&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="60" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g8eQ6b_c9qaqCsPONpgr-10" value="ID, nombre, descripción, precio." style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g8eQ6b_c9qaqCsPONpgr-9">
+          <mxGeometry y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8eQ6b_c9qaqCsPONpgr-11" value="obtenerDetalles()." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g8eQ6b_c9qaqCsPONpgr-14" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;OrdenDeCompra&lt;/font&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g8eQ6b_c9qaqCsPONpgr-15" value=" ID, fecha de creación, productos solicitados, estado." style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g8eQ6b_c9qaqCsPONpgr-14">
+          <mxGeometry y="30" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g8eQ6b_c9qaqCsPONpgr-16" value="agregarProducto(),&lt;br&gt;actualizarEstado(),&lt;br&gt;notificarCliente()." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8eQ6b_c9qaqCsPONpgr-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;sistema&lt;/font&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="g8eQ6b_c9qaqCsPONpgr-18" value="base de datos de clientes, base de datos de productos, calendario de visitas, historial de órdenes de compra." style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g8eQ6b_c9qaqCsPONpgr-17">
+          <mxGeometry y="30" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g8eQ6b_c9qaqCsPONpgr-19" value="generarReportes(), actualizarBaseDatos(), asignarAsesorComercial(), calcularMetas()." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
